@@ -1,1 +1,2 @@
-# CRM_project
+# CRM project
+Created according to a lesson on YouTube
